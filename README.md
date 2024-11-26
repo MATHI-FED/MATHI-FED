@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MATHI-FED
+- ##👋 Hi there, I’m @MATHI-FED
 - 👀 I’m interested in web developemt
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on software developed work
@@ -8,5 +8,5 @@
 
 ---
 ###  I code in
-[<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>]
+<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 
