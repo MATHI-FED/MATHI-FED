@@ -18,6 +18,4 @@
 
 ---
 ### I WORK SPACE
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/mathi_04?theme=dark&font=Sansita&ext=contest&site=cn)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/mathi_04?theme=light&font=Lekton&ext=contest)
